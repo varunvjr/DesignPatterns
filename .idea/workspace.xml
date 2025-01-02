@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d34b263c-53c8-4b4b-86b9-b11cc9289f2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../practice/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled2-checkpoint.ipynb" beforeDir="false" />
@@ -85,8 +84,8 @@
       <change beforePath="$PROJECT_DIR$/../Dell Data/internship/front page.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dell Data/internship/social" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dell Data/jQuery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational Design Patterns/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Patterns/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational Design Patterns/Abstract Factory/src/FactoryMethod.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Final Pdf Report/Chapter_1.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Final Pdf Report/Chapter_2.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Final Pdf Report/Chapter_3.pdf" beforeDir="false" />
