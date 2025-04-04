@@ -7,17 +7,17 @@ public class VehicleSpot {
         this.spotNumber = spotNumber;
         vehicleType = type;
     }
-    public boolean isAvailable(){
+    public synchronized boolean isAvailable(){
         return parkedVehicle == null;
     }
-    public void parkVehicle(Vehicle vehicle){           // Check is the spot is available for the given vehicle type
+    public synchronized void parkVehicle(Vehicle vehicle){           // Check is the spot is available for the given vehicle type
         if(isAvailable()&&vehicle.getType()==vehicleType){
             parkedVehicle = vehicle;
         }else{
             throw new IllegalArgumentException("Invalid vehicle type or spot already occupied");
         }
     }
-    public void unParkVehicle(){
+    public synchronized void unParkVehicle(){
         parkedVehicle = null;
     }
     public VehicleType getVehicleType(){

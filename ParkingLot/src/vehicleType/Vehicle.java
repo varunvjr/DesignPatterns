@@ -1,6 +1,6 @@
 package vehicleType;
 
-public abstract class Vehicle {
+public class Vehicle {
     protected String licensePlate;
     protected VehicleType type;
     public Vehicle(String licensePlate,VehicleType type){
