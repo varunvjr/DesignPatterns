@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d34b263c-53c8-4b4b-86b9-b11cc9289f2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Factory/Factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton_Practice/Singleton_Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/Strategy.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Design Practice/.idea/Design Practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
@@ -88,7 +85,20 @@
       <change beforePath="$PROJECT_DIR$/../Dell Data/internship/front page.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dell Data/internship/social" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dell Data/jQuery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational Design Patterns/Singleton/src/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Design Patterns/Singleton/src/SingleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/src/ObserverPattern/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/src/ObserverPattern/Observable/IPhoneObservableImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/src/ObserverPattern/Observable/StockObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/src/ObserverPattern/Observer/EmailNotificationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/src/ObserverPattern/Observer/MobileNotificationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationSystem/src/ObserverPattern/Observer/NotificationAlertObserver.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Final Pdf Report/Chapter_1.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Final Pdf Report/Chapter_2.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Final Pdf Report/Chapter_3.pdf" beforeDir="false" />
@@ -3082,13 +3092,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shrey\Desktop\Design Patterns\NotificationSystem\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
